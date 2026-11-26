@@ -1,15 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
+  "versionTag": "museum-students-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "441f90f59f9eea5e9b1512584f5c4570c1cb686f5966c8f5ce9fd72c69c5ccb9",
+  "gameSha256": "5327456cab270e9e4f1b714eee5cfe2d21d90a950f4b15270417ddef8b368b17",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
-  "pngImages": 49,
+  "pngImages": 50,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 267021,
-      "sha256": "441f90f59f9eea5e9b1512584f5c4570c1cb686f5966c8f5ce9fd72c69c5ccb9"
+      "bytes": 267780,
+      "sha256": "5327456cab270e9e4f1b714eee5cfe2d21d90a950f4b15270417ddef8b368b17"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -222,6 +223,11 @@
       "sha256": "e483103e7e2e563cf2a0a8148461f43a0a2c53fd634c18eb6b1ba532af284530"
     },
     {
+      "path": "minigames/assets/museum-students-two-girls-one-boy-v1.png",
+      "bytes": 1823964,
+      "sha256": "4eace76947e0f14899f481f7af32f9403eff4cd4361810a6d688f0bc820de23a"
+    },
+    {
       "path": "minigames/assets/river-seated-guests-ch3-v1.png",
       "bytes": 2719363,
       "sha256": "b22f9043e7de4c5d1951e74dc3c5d4f0899c9d9ddcd1eaab2e1624eaf324b545"
@@ -273,8 +279,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1483,
-      "sha256": "ae036b71cdaa1f693b99b0ed8f627d4301fa67ed0d9115ebb112f3e9ce512172"
+      "bytes": 1594,
+      "sha256": "1761619046f0e658a51bb7739b5113ab68a82da03a15da5ad4df8094481ecd84"
     }
   ]
 }
