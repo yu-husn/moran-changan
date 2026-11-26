@@ -1,0 +1,280 @@
+{
+  "title": "墨染長安：一筆相思",
+  "releaseDate": "2026-11-27",
+  "gameEntry": "minigames/index.html",
+  "gameSha256": "441f90f59f9eea5e9b1512584f5c4570c1cb686f5966c8f5ce9fd72c69c5ccb9",
+  "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
+  "pngImages": 49,
+  "files": [
+    {
+      "path": "minigames/index.html",
+      "bytes": 267021,
+      "sha256": "441f90f59f9eea5e9b1512584f5c4570c1cb686f5966c8f5ce9fd72c69c5ccb9"
+    },
+    {
+      "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
+      "bytes": 1120405,
+      "sha256": "ab813e34062bead2004a329772c87d5b7c767023ab98606dd525d84d38a5170c"
+    },
+    {
+      "path": "artwork-drafts/scene-brush-fingertips-ch2-v1.png",
+      "bytes": 2892142,
+      "sha256": "a910b0c4cf0a4ef828698e67c94eb97fb442f416c775d58cb21bfe82ab5f892c"
+    },
+    {
+      "path": "artwork-drafts/scene-carriage-drowsy-ch4-v1.png",
+      "bytes": 3071603,
+      "sha256": "9db1ef044aafefefb5d7a7de6ec88b29c28cca64beb5b1dac7444468fa0a20a8"
+    },
+    {
+      "path": "artwork-drafts/scene-carriage-shoulder-sleep-ch4-v1.png",
+      "bytes": 3018829,
+      "sha256": "aa35d97c2f0b2109d33581e20a6c3932c85363523449658b05817db98869e75f"
+    },
+    {
+      "path": "artwork-drafts/scene-censorate-case-review-v1.png",
+      "bytes": 3014604,
+      "sha256": "37c1d7c3559af8baf43805adbd2ade61d43e519c4743ad35422b324d119d555f"
+    },
+    {
+      "path": "artwork-drafts/scene-ending-modern-museum-together-soft-v1.png",
+      "bytes": 2662790,
+      "sha256": "c44d2e5811030a32d47b3c627fe73744016a60633aa106e97900adaed1aaaa00"
+    },
+    {
+      "path": "artwork-drafts/scene-ending-tang-calligraphy-together-soft-v1.png",
+      "bytes": 3130301,
+      "sha256": "a028242167dc9e3b72d7a2af6b1588c5a16dbbefd61b9acd44df0e9e8f96913d"
+    },
+    {
+      "path": "artwork-drafts/scene-friends-invitation-v1.png",
+      "bytes": 3542649,
+      "sha256": "2d8c65c000b4c05845558911f3b637ab88744ae965f0644316f08d29a5b67733"
+    },
+    {
+      "path": "artwork-drafts/scene-government-hearing-hall-soft-v1.png",
+      "bytes": 2339444,
+      "sha256": "9b047d04db8fa1262d2da51cb4b4a21146154afc5a963034a375abef6aa4a37c"
+    },
+    {
+      "path": "artwork-drafts/scene-gu-huaijin-arrest-guards-v1.png",
+      "bytes": 3581056,
+      "sha256": "269e654abe433cfa456642ef81833f20974c5a985424cd13a3773a783c498875"
+    },
+    {
+      "path": "artwork-drafts/scene-gu-huaijin-recognizes-original-scroll-v2.png",
+      "bytes": 2588939,
+      "sha256": "5769c0f60a7999a16ab5d175c2c7be276f4e4f10948d82951103f5370d401b24"
+    },
+    {
+      "path": "artwork-drafts/scene-gu-mansion-gate-soft-v1.png",
+      "bytes": 2924260,
+      "sha256": "1db97863958a7ca2c0e13b1407905ba1b18571e061c23504fefc8db88bba5d8c"
+    },
+    {
+      "path": "artwork-drafts/scene-lantern-festival-terrace-soft-v1.png",
+      "bytes": 2474140,
+      "sha256": "c25b34325a2a9279916e0040bff460393bdfd2eddb18ea709ba19e9c145c9033"
+    },
+    {
+      "path": "artwork-drafts/scene-lantern-tongxin-jade-gift-ch4-v1.png",
+      "bytes": 2756296,
+      "sha256": "c4c4468c2dc18d701e644de1482d60ff9a61a6eba97e3929a3de2eb42794f370"
+    },
+    {
+      "path": "artwork-drafts/scene-modern-museum-cuihu-exhibit-v2.png",
+      "bytes": 2249006,
+      "sha256": "cb639c82a67c3531e2c46655f96450e1eb8ed2a6bb93118fa6822d119ce721b0"
+    },
+    {
+      "path": "artwork-drafts/scene-observatory-good-news-hands-ch5-v1.png",
+      "bytes": 2971761,
+      "sha256": "f34e601f471c80e03aeab6664ebf27b4328ce4b2e327ed4a94bbe18d65b3987d"
+    },
+    {
+      "path": "artwork-drafts/scene-river-handkerchief-ch3-v1.png",
+      "bytes": 3319585,
+      "sha256": "8ae460af83c6471169966f3a30feaedf83704f33a26a78daa41a0d600029d410"
+    },
+    {
+      "path": "artwork-drafts/scene-river-six-guests-ch3-v1.png",
+      "bytes": 3493580,
+      "sha256": "23f1e625511517745a5b734600757c29c6c8d5206dd152c0c558be8845c48bb0"
+    },
+    {
+      "path": "artwork-drafts/scene-sitiantai-armillary-soft-v1.png",
+      "bytes": 2780159,
+      "sha256": "d1a1be0bf3de31b49730ff685238caaaa821a1ebe5bf0c3afb76556e4292b6cf"
+    },
+    {
+      "path": "artwork-drafts/scene-sitiantai-museum-portal-soft-v1.png",
+      "bytes": 2822653,
+      "sha256": "e1a4141b2de3d9d353af6953fe3d3fc2d03d0babad46140a374565cb5111c3c9"
+    },
+    {
+      "path": "artwork-drafts/scene-study-window-after-departure-v1.png",
+      "bytes": 2964472,
+      "sha256": "54b5a6565ad0ccd68620206a322cf4cac82f67cff7be0bf595fc46cdbec05242"
+    },
+    {
+      "path": "artwork-drafts/scene-study-window-whisper-shy-v3.png",
+      "bytes": 2940439,
+      "sha256": "e5c55a4d6967c3197d7660cc714a4c92f3de011c9d11ff9d9284795182713f76"
+    },
+    {
+      "path": "artwork-drafts/scene-touhu-garden-soft-v2.png",
+      "bytes": 2954217,
+      "sha256": "e4b19057f81d03a8113f4d8e45c24b69e3e2fef4409cead7fcc64345a5f3fe0f"
+    },
+    {
+      "path": "artwork-drafts/scene-wei-chengsi-steward-study-conspiracy-v1.png",
+      "bytes": 2427344,
+      "sha256": "c0e2867a59e95f55046808e8c26457147463c3be60fb9bceabd16c5d9c9b038f"
+    },
+    {
+      "path": "artwork-drafts/scene-wei-desk-owner-side-open-v2.png",
+      "bytes": 2026405,
+      "sha256": "59762eab046e9f338035c018263b76a026787c637a9dee0b46966a83178f614d"
+    },
+    {
+      "path": "artwork-drafts/scene-wei-mansion-wall-night-soft-v1.png",
+      "bytes": 2773910,
+      "sha256": "528cd02aceedcdca0ea44ce27a2653c907a545a5b452fe90eda3a62890c70b89"
+    },
+    {
+      "path": "artwork-drafts/scene-wei-study-owner-side-v2.png",
+      "bytes": 2149481,
+      "sha256": "9047e68dc0e2845ca5dfc68770aa59a2e25f629d3e9ad990acfcfd5a68033a6a"
+    },
+    {
+      "path": "artwork-drafts/scene-wei-wall-huaijin-vault-v1.png",
+      "bytes": 2826596,
+      "sha256": "9970f4f6eebf17993337281b1d86c4b46d763ad2d4e792b6aca48c6ba7a855b8"
+    },
+    {
+      "path": "artwork-drafts/scene-wei-wall-shoulder-boost-v1.png",
+      "bytes": 3061294,
+      "sha256": "9c0bd64e52538f8b51be18220f0f3e409247f130ce9d2f7296162027b39073f3"
+    },
+    {
+      "path": "artwork-drafts/shen-qingshuang-gu-huaijin-peach-petal-catch-v1.png",
+      "bytes": 3322638,
+      "sha256": "401d1c04657ffcf7156ec723d54e6553e811a95384ec0dc253ce547deb8f1a92"
+    },
+    {
+      "path": "artwork-drafts/wei-chengsi-fullbody-v1.png",
+      "bytes": 2049293,
+      "sha256": "f404b6f1c8f604fd10414cfd24db46c1884e2fee372d343cedd8a010cdac3abb"
+    },
+    {
+      "path": "minigames/assets/academy-courtyard-approved-v1.png",
+      "bytes": 3776888,
+      "sha256": "d24adaad5fdfd1531b663db4a261a0096c0b3e0c11fc28fb1a08ac052aec7154"
+    },
+    {
+      "path": "minigames/assets/armillary-dragon-base-v1.png",
+      "bytes": 2245698,
+      "sha256": "af27e81ef2073f1f4197ccb916693c23e004832a75f2ad39d8bd99dca859bffd"
+    },
+    {
+      "path": "minigames/assets/cap115-calligraphy-question.png",
+      "bytes": 270168,
+      "sha256": "65926a74bf8f4ac909c560cfea877683455094fac44395a89642a2d1ccaca228"
+    },
+    {
+      "path": "minigames/assets/cap115-touhu-score-table.png",
+      "bytes": 29672,
+      "sha256": "4c48b964bd90cdfa75ba9e0335ce05ac2c1c8a90ed8b8b672821232ed4711a69"
+    },
+    {
+      "path": "minigames/assets/censorate-official-fullbody-v1.png",
+      "bytes": 1499455,
+      "sha256": "696272a2152b1d0da81de5ecf2ade9cd519906ecf748cab2079bc734a1c324a0"
+    },
+    {
+      "path": "minigames/assets/four-mouth-bronze-all-upward-v3.png",
+      "bytes": 1609999,
+      "sha256": "0586ad02ff44790dfd5fe87644d0970ad3a5bd6a9e5243c484cdc047962d3c22"
+    },
+    {
+      "path": "minigames/assets/gu-ch2-jade-silver-v1.png",
+      "bytes": 2257873,
+      "sha256": "7ebef09a453a1c10510dc64363168f34814be6fff60c4b11d0f26cb9a5f1d5b4"
+    },
+    {
+      "path": "minigames/assets/gu-ch3-moonwhite-aqua-v1.png",
+      "bytes": 2165303,
+      "sha256": "5c0e1a12b500d91ce026f8e9fb360e3a257f082697e608da44bf42bc9e0c731d"
+    },
+    {
+      "path": "minigames/assets/gu-ch4-black-winered-gold-v1.png",
+      "bytes": 2309939,
+      "sha256": "faecc24e1bca4430dbe015309e7ea100e7c9ef94eb7b61b763d707192d374e5b"
+    },
+    {
+      "path": "minigames/assets/gu-ch5-indigo-violet-silver-v1.png",
+      "bytes": 2366624,
+      "sha256": "841726782e70ac1a6ae53d30989330bc7486911aca197ad7d6add8b71fcc743f"
+    },
+    {
+      "path": "minigames/assets/gu-fullbody-cutout-complete-v1.png",
+      "bytes": 2389473,
+      "sha256": "e483103e7e2e563cf2a0a8148461f43a0a2c53fd634c18eb6b1ba532af284530"
+    },
+    {
+      "path": "minigames/assets/river-seated-guests-ch3-v1.png",
+      "bytes": 2719363,
+      "sha256": "b22f9043e7de4c5d1951e74dc3c5d4f0899c9d9ddcd1eaab2e1624eaf324b545"
+    },
+    {
+      "path": "minigames/assets/river-seated-guests-v1.png",
+      "bytes": 2764058,
+      "sha256": "d0c8b411bec9b061e0dcc26bab29bf9ef64d4f9c9cd82614874dee2323ba0f4f"
+    },
+    {
+      "path": "minigames/assets/shen-ch2-apricot-ivory-v1.png",
+      "bytes": 1328975,
+      "sha256": "91c894183309e94224beae516338495110647c06b718386903ec7d5bb97b9c93"
+    },
+    {
+      "path": "minigames/assets/shen-ch3-lakeblue-silver-v1.png",
+      "bytes": 1498321,
+      "sha256": "dea991f991ab23391c9b11006a363a1f843581124a146e044f3610c04d511254"
+    },
+    {
+      "path": "minigames/assets/shen-ch4-rougered-gold-v1.png",
+      "bytes": 1606529,
+      "sha256": "a220b8231a9205a933df2a3e925a96116770afd831bc89e935632b7d9f9ff524"
+    },
+    {
+      "path": "minigames/assets/shen-ch5-lavender-moonwhite-v1.png",
+      "bytes": 1533176,
+      "sha256": "fa206b9182b8ab2d2d9ee3da740251a119235a58d1069a739eea977f7c867555"
+    },
+    {
+      "path": "minigames/assets/shen-qingshuang-fullbody-proportions-v2.png",
+      "bytes": 1532665,
+      "sha256": "03323124150448030465d3a0adca90b369cc18a55d102ab4df02241a166feab8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 819,
+      "sha256": "4f92994392d27aeabe46ab2fd5289376253f5d07f5dfe3e4e8e68a45fe39db41"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1483,
+      "sha256": "ae036b71cdaa1f693b99b0ed8f627d4301fa67ed0d9115ebb112f3e9ce512172"
+    }
+  ]
+}
