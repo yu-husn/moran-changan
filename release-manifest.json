@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "museum-students-v1",
+  "versionTag": "guided-feedback-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "5327456cab270e9e4f1b714eee5cfe2d21d90a950f4b15270417ddef8b368b17",
+  "gameSha256": "5cd3322a2f9962eb526825d360a4bbca52af4249d8a34039ce10b899f12cf74e",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 50,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 267780,
-      "sha256": "5327456cab270e9e4f1b714eee5cfe2d21d90a950f4b15270417ddef8b368b17"
+      "bytes": 405094,
+      "sha256": "5cd3322a2f9962eb526825d360a4bbca52af4249d8a34039ce10b899f12cf74e"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -279,8 +279,9 @@
     },
     {
       "path": "README.md",
-      "bytes": 1594,
-      "sha256": "1761619046f0e658a51bb7739b5113ab68a82da03a15da5ad4df8094481ecd84"
+      "bytes": 1660,
+      "sha256": "81a16e7e2b21f5b3e43ee8d5c85899f48992c47d0bafbbd0981789bad06a3cb8"
     }
-  ]
+  ],
+  "answerFreeGuidanceEntries": 245
 }
