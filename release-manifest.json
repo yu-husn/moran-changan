@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "wei-study-clue-dialogue-v1",
+  "versionTag": "remove-wall-dialogue-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "d34f2563e5e2b757c856f06b6757bea975a1330b30b4a6897400518f10bcea04",
+  "gameSha256": "9bca2f0f5c526227278479b9ee6561cbb0ad0d768910a2f61364606b613e0c66",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 54,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415133,
-      "sha256": "d34f2563e5e2b757c856f06b6757bea975a1330b30b4a6897400518f10bcea04"
+      "bytes": 415131,
+      "sha256": "9bca2f0f5c526227278479b9ee6561cbb0ad0d768910a2f61364606b613e0c66"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -305,7 +305,8 @@
   ],
   "answerFreeGuidanceEntries": 245,
   "speakingCharacters": 11,
-  "checkedDialogueInstances": 363,
-  "storyDialogueInstances": 362,
-  "quotedClueInstances": 1
+  "checkedDialogueInstances": 362,
+  "storyDialogueInstances": 361,
+  "quotedClueInstances": 1,
+  "skippedDialogueSlots": 1
 }
