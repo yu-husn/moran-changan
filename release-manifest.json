@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "remove-willing-to-talk-v1",
+  "versionTag": "origin-question-dialogue-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "724f047e78618e6d02b47801af8d08b7967d8cc6e099ad12d3ae127b62791e2a",
+  "gameSha256": "b8e71d2af2b718564495999d8ce5910a05e568969f2c67ce53e192f09e5b7537",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 55,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415731,
-      "sha256": "724f047e78618e6d02b47801af8d08b7967d8cc6e099ad12d3ae127b62791e2a"
+      "bytes": 415767,
+      "sha256": "b8e71d2af2b718564495999d8ce5910a05e568969f2c67ce53e192f09e5b7537"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
