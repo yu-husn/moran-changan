@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "remove-window-caption-v1",
+  "versionTag": "study-window-tense-v4",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "b968fc9ae53e51731a13513e0fbb90f2e6d334847dccbdf0952331443a901693",
+  "gameSha256": "a13e8cb3ecff0b0514305385cd2eb9494e91674fc840879ae6a75369d5e8a01c",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 54,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415021,
-      "sha256": "b968fc9ae53e51731a13513e0fbb90f2e6d334847dccbdf0952331443a901693"
+      "bytes": 415101,
+      "sha256": "a13e8cb3ecff0b0514305385cd2eb9494e91674fc840879ae6a75369d5e8a01c"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -118,9 +118,9 @@
       "sha256": "54b5a6565ad0ccd68620206a322cf4cac82f67cff7be0bf595fc46cdbec05242"
     },
     {
-      "path": "artwork-drafts/scene-study-window-whisper-shy-v3.png",
-      "bytes": 2940439,
-      "sha256": "e5c55a4d6967c3197d7660cc714a4c92f3de011c9d11ff9d9284795182713f76"
+      "path": "artwork-drafts/scene-study-window-whisper-tense-v4.png",
+      "bytes": 2859867,
+      "sha256": "03d2fbc03374b2061595a7bd7c2032acf0024fecb8aac5dc74295a5ceb0bdcbc"
     },
     {
       "path": "artwork-drafts/scene-touhu-garden-soft-v2.png",
