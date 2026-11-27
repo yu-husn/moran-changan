@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "remove-three-points-reply-v1",
+  "versionTag": "peach-wine-dialogue-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "691ab6d882f6c09b00497e301da0f97492324b85f37e296dc00679b2f1f6f991",
+  "gameSha256": "0c696ddb95bc6413f09fe634c5af6c9bf70dfc138c81d8ab69138ee5b762b8b2",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 55,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415311,
-      "sha256": "691ab6d882f6c09b00497e301da0f97492324b85f37e296dc00679b2f1f6f991"
+      "bytes": 415302,
+      "sha256": "0c696ddb95bc6413f09fe634c5af6c9bf70dfc138c81d8ab69138ee5b762b8b2"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
