@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "forged-manuscript-story-v1",
+  "versionTag": "speaker-character-images-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "e19d3c8d489ce51e6bf631e87e0450df93a87acc50bd3f179acb3ecfd3a6e96e",
+  "gameSha256": "7415466d21ae00c08dd0ea3a787d4222167f21262821d773687c13ecdf179684",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
-  "pngImages": 52,
+  "pngImages": 54,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 410228,
-      "sha256": "e19d3c8d489ce51e6bf631e87e0450df93a87acc50bd3f179acb3ecfd3a6e96e"
+      "bytes": 414286,
+      "sha256": "7415466d21ae00c08dd0ea3a787d4222167f21262821d773687c13ecdf179684"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -291,7 +291,19 @@
       "path": "artwork-drafts/scene-shen-qingshuang-sky-fall-distant-v1.png",
       "bytes": 2554012,
       "sha256": "ddc1edff911cb11c640e445880365fe3108890e07521f8f37b15471fdb4e3f70"
+    },
+    {
+      "path": "minigames/assets/guard-captain-fullbody-v1.png",
+      "bytes": 2334693,
+      "sha256": "b6f8bd58b1cf1a9354df21965eafd2dc2deafaf6282e88075a5d30ffb683aac5"
+    },
+    {
+      "path": "minigames/assets/chang-yiran-fullbody-v1.png",
+      "bytes": 2253020,
+      "sha256": "68bf81c6eeef2b67369415376974143415caf134055a9d7bb2284b477facd0b8"
     }
   ],
-  "answerFreeGuidanceEntries": 245
+  "answerFreeGuidanceEntries": 245,
+  "speakingCharacters": 11,
+  "checkedDialogueInstances": 362
 }
