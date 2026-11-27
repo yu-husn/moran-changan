@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "remove-touhu-rest-dialogue-v1",
+  "versionTag": "arabic-numerals-dialogue-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "69df8533239427c28cf8de4432200b454c6b3c2aaa3db2e26ebda1a1182f1227",
+  "gameSha256": "8c1d3b2fa33d68f8cb65a1e531e9c0cb5a64ae41f278c43d52b9d06b71fdd05a",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 55,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415843,
-      "sha256": "69df8533239427c28cf8de4432200b454c6b3c2aaa3db2e26ebda1a1182f1227"
+      "bytes": 415879,
+      "sha256": "8c1d3b2fa33d68f8cb65a1e531e9c0cb5a64ae41f278c43d52b9d06b71fdd05a"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
