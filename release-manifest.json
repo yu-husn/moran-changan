@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "qingshuang-trust-dialogue-v1",
+  "versionTag": "wei-study-clue-dialogue-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "d4c70fc289b0515b513a8d52b4eba3ba67465a4d53b822561a84f4629bca345a",
+  "gameSha256": "d34f2563e5e2b757c856f06b6757bea975a1330b30b4a6897400518f10bcea04",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 54,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415082,
-      "sha256": "d4c70fc289b0515b513a8d52b4eba3ba67465a4d53b822561a84f4629bca345a"
+      "bytes": 415133,
+      "sha256": "d34f2563e5e2b757c856f06b6757bea975a1330b30b4a6897400518f10bcea04"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
