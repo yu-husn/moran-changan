@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "museum-peach-petals-v1",
+  "versionTag": "arrival-reassurance-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "b96608683a4c4c72bed1f91e5867728f5c277399c4a260adba17ad2c1a42eb7a",
+  "gameSha256": "5c78afc23b01361165f9577e6a6924b4008c5d6489cebc5489a617bf316d67f7",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 51,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 405435,
-      "sha256": "b96608683a4c4c72bed1f91e5867728f5c277399c4a260adba17ad2c1a42eb7a"
+      "bytes": 405438,
+      "sha256": "5c78afc23b01361165f9577e6a6924b4008c5d6489cebc5489a617bf316d67f7"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
