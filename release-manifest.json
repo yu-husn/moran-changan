@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "huaijin-vault-dialogue-v1",
+  "versionTag": "remove-vault-reaction-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "56cc03849401a00d82382e9ff489ad3f499f2d5796f044adf71c68430edc793f",
+  "gameSha256": "f7667c68930f7f109e3ee5419b62459d3d7d29f9ee1f7a3d0545a58cbdb3abe5",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 54,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415183,
-      "sha256": "56cc03849401a00d82382e9ff489ad3f499f2d5796f044adf71c68430edc793f"
+      "bytes": 415127,
+      "sha256": "f7667c68930f7f109e3ee5419b62459d3d7d29f9ee1f7a3d0545a58cbdb3abe5"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -305,11 +305,11 @@
   ],
   "answerFreeGuidanceEntries": 245,
   "speakingCharacters": 11,
-  "checkedDialogueInstances": 360,
-  "storyDialogueInstances": 359,
+  "checkedDialogueInstances": 359,
+  "storyDialogueInstances": 358,
   "quotedClueInstances": 1,
   "skippedDialogueSlots": 1,
   "followupOnlySlots": 1,
   "removedDialogueSlots": 2,
-  "removedReplySlots": 1
+  "removedReplySlots": 2
 }
