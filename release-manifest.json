@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "sky-fall-distant-v1",
+  "versionTag": "qingshuang-first-impression-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "abeaf1bb3ba27dbbcd5e69bb8ef1d01240110ad2da289c51106aa93036055c57",
+  "gameSha256": "3ca497214e60e7074b042fdee1084d75245d1474abb093eec1c5bddaafeb1a12",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 52,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 405785,
-      "sha256": "abeaf1bb3ba27dbbcd5e69bb8ef1d01240110ad2da289c51106aa93036055c57"
+      "bytes": 405821,
+      "sha256": "3ca497214e60e7074b042fdee1084d75245d1474abb093eec1c5bddaafeb1a12"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
