@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "remove-touhu-pair-v1",
+  "versionTag": "touhu-matching-garden-quiver-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "dcea811e0c043cb959be97a8a1865bf9f94a0bec6282d4acc4df2c9b40f909dc",
+  "gameSha256": "748f42009251efd868439fb273b10a410321223cd35c5186fc7e48dbd291de44",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
-  "pngImages": 54,
+  "pngImages": 55,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 414296,
-      "sha256": "dcea811e0c043cb959be97a8a1865bf9f94a0bec6282d4acc4df2c9b40f909dc"
+      "bytes": 415115,
+      "sha256": "748f42009251efd868439fb273b10a410321223cd35c5186fc7e48dbd291de44"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -168,11 +168,6 @@
       "sha256": "f404b6f1c8f604fd10414cfd24db46c1884e2fee372d343cedd8a010cdac3abb"
     },
     {
-      "path": "minigames/assets/academy-courtyard-approved-v1.png",
-      "bytes": 3776888,
-      "sha256": "d24adaad5fdfd1531b663db4a261a0096c0b3e0c11fc28fb1a08ac052aec7154"
-    },
-    {
       "path": "minigames/assets/armillary-dragon-base-v1.png",
       "bytes": 2245698,
       "sha256": "af27e81ef2073f1f4197ccb916693c23e004832a75f2ad39d8bd99dca859bffd"
@@ -301,6 +296,16 @@
       "path": "minigames/assets/chang-yiran-fullbody-v1.png",
       "bytes": 2253020,
       "sha256": "68bf81c6eeef2b67369415376974143415caf134055a9d7bb2284b477facd0b8"
+    },
+    {
+      "path": "artwork-drafts/scene-touhu-garden-empty-v3.png",
+      "bytes": 2968451,
+      "sha256": "470df101cce1a8219823a9b7a744e63eb25b6b8713ac5579e0439f55c141f6e2"
+    },
+    {
+      "path": "minigames/assets/touhu-wood-quiver-matching-v1.png",
+      "bytes": 2059744,
+      "sha256": "0219a6b35570cd766775e7c25d3d87d491ad4e892d09b44945453f68047d8fa6"
     }
   ],
   "answerFreeGuidanceEntries": 245,
@@ -311,5 +316,10 @@
   "skippedDialogueSlots": 10,
   "followupOnlySlots": 2,
   "removedDialogueSlots": 12,
-  "removedReplySlots": 3
+  "removedReplySlots": 3,
+  "visualAssets": {
+    "touhuBackground": "artwork-drafts/scene-touhu-garden-empty-v3.png",
+    "touhuQuiver": "minigames/assets/touhu-wood-quiver-matching-v1.png",
+    "reference": "artwork-drafts/scene-touhu-garden-soft-v2.png"
+  }
 }
