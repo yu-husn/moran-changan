@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "qingshuang-first-impression-v1",
+  "versionTag": "fullscreen-story-scenes-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "3ca497214e60e7074b042fdee1084d75245d1474abb093eec1c5bddaafeb1a12",
+  "gameSha256": "9fa6f2b3d30a939ae2fb323e72719eefcd54238e8eaaf8f509874f1dbe856477",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 52,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 405821,
-      "sha256": "3ca497214e60e7074b042fdee1084d75245d1474abb093eec1c5bddaafeb1a12"
+      "bytes": 409955,
+      "sha256": "9fa6f2b3d30a939ae2fb323e72719eefcd54238e8eaaf8f509874f1dbe856477"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
