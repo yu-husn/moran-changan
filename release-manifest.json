@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "study-window-tense-v4",
+  "versionTag": "whisper-distance-dialogue-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "a13e8cb3ecff0b0514305385cd2eb9494e91674fc840879ae6a75369d5e8a01c",
+  "gameSha256": "12e2857eb63052ebf989a83bdc56af17cd849ea13629366bd06d96642e4287ab",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 54,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415101,
-      "sha256": "a13e8cb3ecff0b0514305385cd2eb9494e91674fc840879ae6a75369d5e8a01c"
+      "bytes": 415104,
+      "sha256": "12e2857eb63052ebf989a83bdc56af17cd849ea13629366bd06d96642e4287ab"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
