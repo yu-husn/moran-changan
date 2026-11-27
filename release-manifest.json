@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "signature-dialogue-v1",
+  "versionTag": "museum-peach-petals-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "b8181af1b247fdeaaa27cf7797de5d3eadf9524044a6f98f9c793b4ce2e6eccf",
+  "gameSha256": "b96608683a4c4c72bed1f91e5867728f5c277399c4a260adba17ad2c1a42eb7a",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
-  "pngImages": 50,
+  "pngImages": 51,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 405159,
-      "sha256": "b8181af1b247fdeaaa27cf7797de5d3eadf9524044a6f98f9c793b4ce2e6eccf"
+      "bytes": 405435,
+      "sha256": "b96608683a4c4c72bed1f91e5867728f5c277399c4a260adba17ad2c1a42eb7a"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -281,6 +281,11 @@
       "path": "README.md",
       "bytes": 1660,
       "sha256": "81a16e7e2b21f5b3e43ee8d5c85899f48992c47d0bafbbd0981789bad06a3cb8"
+    },
+    {
+      "path": "artwork-drafts/scene-modern-museum-falling-peach-petals-v1.png",
+      "bytes": 2517932,
+      "sha256": "073fc41076a19fe35033629f17fa78c66efd298c8a9ad520ab1db1f67b2c649b"
     }
   ],
   "answerFreeGuidanceEntries": 245
