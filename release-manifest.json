@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "river-seat-numbers-v1",
+  "versionTag": "dialogue-editor-1795792699428",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "a2e57312d10626847cb177741c703c369b537aaa5292edda77751f93ab5bbd75",
+  "gameSha256": "9775559b0981a8bf5872c008062551b3d59016618b0ed9f839579b8e94acd2cb",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 55,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 416194,
-      "sha256": "a2e57312d10626847cb177741c703c369b537aaa5292edda77751f93ab5bbd75"
+      "bytes": 416931,
+      "sha256": "9775559b0981a8bf5872c008062551b3d59016618b0ed9f839579b8e94acd2cb"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
