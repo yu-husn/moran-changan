@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "guided-feedback-v1",
+  "versionTag": "dialogue-label-cleanup-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "5cd3322a2f9962eb526825d360a4bbca52af4249d8a34039ce10b899f12cf74e",
+  "gameSha256": "162fb4dfbe74511a17cc9cab136426e4d284ba8f64c34ea15309386bcae91ffb",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 50,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 405094,
-      "sha256": "5cd3322a2f9962eb526825d360a4bbca52af4249d8a34039ce10b899f12cf74e"
+      "bytes": 405126,
+      "sha256": "162fb4dfbe74511a17cc9cab136426e4d284ba8f64c34ea15309386bcae91ffb"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
