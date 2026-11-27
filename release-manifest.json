@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "remove-tea-reply-v1",
+  "versionTag": "remove-three-points-reply-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "fd37928280ec720bd596ce0ac81bdf873f4aa113e6c323debd8544343e891817",
+  "gameSha256": "691ab6d882f6c09b00497e301da0f97492324b85f37e296dc00679b2f1f6f991",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 55,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415412,
-      "sha256": "fd37928280ec720bd596ce0ac81bdf873f4aa113e6c323debd8544343e891817"
+      "bytes": 415311,
+      "sha256": "691ab6d882f6c09b00497e301da0f97492324b85f37e296dc00679b2f1f6f991"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -310,13 +310,13 @@
   ],
   "answerFreeGuidanceEntries": 245,
   "speakingCharacters": 11,
-  "checkedDialogueInstances": 335,
-  "storyDialogueInstances": 334,
+  "checkedDialogueInstances": 334,
+  "storyDialogueInstances": 333,
   "quotedClueInstances": 1,
   "skippedDialogueSlots": 11,
   "followupOnlySlots": 3,
   "removedDialogueSlots": 14,
-  "removedReplySlots": 14,
+  "removedReplySlots": 15,
   "visualAssets": {
     "touhuBackground": "artwork-drafts/scene-touhu-garden-empty-v3.png",
     "touhuQuiver": "minigames/assets/touhu-wood-quiver-matching-v1.png",
