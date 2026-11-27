@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "arrival-reassurance-v1",
+  "versionTag": "sky-fall-distant-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "5c78afc23b01361165f9577e6a6924b4008c5d6489cebc5489a617bf316d67f7",
+  "gameSha256": "abeaf1bb3ba27dbbcd5e69bb8ef1d01240110ad2da289c51106aa93036055c57",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
-  "pngImages": 51,
+  "pngImages": 52,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 405438,
-      "sha256": "5c78afc23b01361165f9577e6a6924b4008c5d6489cebc5489a617bf316d67f7"
+      "bytes": 405785,
+      "sha256": "abeaf1bb3ba27dbbcd5e69bb8ef1d01240110ad2da289c51106aa93036055c57"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -286,6 +286,11 @@
       "path": "artwork-drafts/scene-modern-museum-falling-peach-petals-v1.png",
       "bytes": 2517932,
       "sha256": "073fc41076a19fe35033629f17fa78c66efd298c8a9ad520ab1db1f67b2c649b"
+    },
+    {
+      "path": "artwork-drafts/scene-shen-qingshuang-sky-fall-distant-v1.png",
+      "bytes": 2554012,
+      "sha256": "ddc1edff911cb11c640e445880365fe3108890e07521f8f37b15471fdb4e3f70"
     }
   ],
   "answerFreeGuidanceEntries": 245
