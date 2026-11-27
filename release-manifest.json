@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "touhu-matching-garden-quiver-v1",
+  "versionTag": "exclude-all145-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "748f42009251efd868439fb273b10a410321223cd35c5186fc7e48dbd291de44",
+  "gameSha256": "83c9c25541de5484f5a7b7f61275427511489d04d08dbc8aa0a714120e798c84",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 55,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415115,
-      "sha256": "748f42009251efd868439fb273b10a410321223cd35c5186fc7e48dbd291de44"
+      "bytes": 416213,
+      "sha256": "83c9c25541de5484f5a7b7f61275427511489d04d08dbc8aa0a714120e798c84"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -321,5 +321,9 @@
     "touhuBackground": "artwork-drafts/scene-touhu-garden-empty-v3.png",
     "touhuQuiver": "minigames/assets/touhu-wood-quiver-matching-v1.png",
     "reference": "artwork-drafts/scene-touhu-garden-soft-v2.png"
-  }
+  },
+  "activeQuestionPool": 239,
+  "excludedQuestionIds": [
+    "ALL-145"
+  ]
 }
