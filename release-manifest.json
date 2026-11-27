@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "remove-lookout-dialogue-v1",
+  "versionTag": "court-without-wei-v2",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "7cf8d8c7f956115c0ab42d217b2bd98d48088fc24c1847241365858e9b7ba11c",
+  "gameSha256": "84c7f3fcb41e84bd633971102a22035ba5991728dd9e96c6a7e0520a6286fcd4",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 54,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 415027,
-      "sha256": "7cf8d8c7f956115c0ab42d217b2bd98d48088fc24c1847241365858e9b7ba11c"
+      "bytes": 414680,
+      "sha256": "84c7f3fcb41e84bd633971102a22035ba5991728dd9e96c6a7e0520a6286fcd4"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
@@ -33,9 +33,9 @@
       "sha256": "aa35d97c2f0b2109d33581e20a6c3932c85363523449658b05817db98869e75f"
     },
     {
-      "path": "artwork-drafts/scene-censorate-case-review-v1.png",
-      "bytes": 3014604,
-      "sha256": "37c1d7c3559af8baf43805adbd2ade61d43e519c4743ad35422b324d119d555f"
+      "path": "artwork-drafts/scene-censorate-case-review-no-wei-v2.png",
+      "bytes": 2740610,
+      "sha256": "7224e5797bd0602b7ae1ac39f8e7f7ce3d2e1a15188f206bb86abbd77bd7896d"
     },
     {
       "path": "artwork-drafts/scene-ending-modern-museum-together-soft-v1.png",
@@ -305,11 +305,11 @@
   ],
   "answerFreeGuidanceEntries": 245,
   "speakingCharacters": 11,
-  "checkedDialogueInstances": 357,
-  "storyDialogueInstances": 356,
+  "checkedDialogueInstances": 354,
+  "storyDialogueInstances": 353,
   "quotedClueInstances": 1,
-  "skippedDialogueSlots": 2,
+  "skippedDialogueSlots": 5,
   "followupOnlySlots": 2,
-  "removedDialogueSlots": 4,
+  "removedDialogueSlots": 7,
   "removedReplySlots": 2
 }
