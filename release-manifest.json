@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "court-without-wei-v2",
+  "versionTag": "arrest-verdict-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "84c7f3fcb41e84bd633971102a22035ba5991728dd9e96c6a7e0520a6286fcd4",
+  "gameSha256": "3ac1f3bf756a79eaf9912760c38d32252d635ef50abb9d5065bf6298d4d3b628",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 54,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 414680,
-      "sha256": "84c7f3fcb41e84bd633971102a22035ba5991728dd9e96c6a7e0520a6286fcd4"
+      "bytes": 414695,
+      "sha256": "3ac1f3bf756a79eaf9912760c38d32252d635ef50abb9d5065bf6298d4d3b628"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
