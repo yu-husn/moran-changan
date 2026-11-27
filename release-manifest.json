@@ -1,16 +1,16 @@
 {
   "title": "墨染長安：一筆相思",
   "releaseDate": "2026-11-27",
-  "versionTag": "remove-relief-dialogue-v1",
+  "versionTag": "prison-thanks-dialogue-v1",
   "gameEntry": "minigames/index.html",
-  "gameSha256": "3d60804a043a0e9af4c898e9821db4cb6d2c7ec70a9cc453615d78b61e941071",
+  "gameSha256": "6c877b8b79cabe330c180e6754a0a98082cb5fdb79cb3772a2922f58ad2fc621",
   "officialBankSha256": "25bd3078426d22d94ee19743acbcf58a6995e367b37452b505eedb21a3068f43",
   "pngImages": 54,
   "files": [
     {
       "path": "minigames/index.html",
-      "bytes": 414603,
-      "sha256": "3d60804a043a0e9af4c898e9821db4cb6d2c7ec70a9cc453615d78b61e941071"
+      "bytes": 414621,
+      "sha256": "6c877b8b79cabe330c180e6754a0a98082cb5fdb79cb3772a2922f58ad2fc621"
     },
     {
       "path": "artwork-drafts/item-tongxin-jade-pendant-v1.png",
